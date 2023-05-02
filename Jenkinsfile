@@ -8,6 +8,6 @@ def pipelineParams
 solidityPipeline {
   mythril = 'latest'
   slither = 'latest'
-  solgraph = 'latest'
+//   solgraph = 'latest'
   codeDxProjectId = '9'
 }
